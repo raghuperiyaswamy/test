@@ -1,0 +1,2 @@
+checking the merge conflicts
+and checking how to resolve the merge confilct
