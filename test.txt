@@ -1,2 +1,4 @@
 want to add more data and check conflicts are happening or not
 verify the conflict
+checking the merge conflicts
+and checking how to resolve the merge confilct
