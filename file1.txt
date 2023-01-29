@@ -1,2 +1,4 @@
 to check the git reset --hard
 to check the git reser --soft
+to check the git reset --mixed
+
