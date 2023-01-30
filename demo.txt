@@ -5,3 +5,9 @@ To test the git stash functionality
 
 to check  git resert
  creating a tags 
+
+
+
+
+
+check stash working
